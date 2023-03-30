@@ -1,0 +1,6 @@
+sklearn
+numba
+umap
+hdbscan
+xmltodict
+seaborn

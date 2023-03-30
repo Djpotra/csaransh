@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/csaransh-pp_test.dir/test/catchUnitTests.cpp.o CMakeFiles/csaransh-pp_test.dir/test/defectsTests.cpp.o CMakeFiles/csaransh-pp_test.dir/test/helperTests.cpp.o CMakeFiles/csaransh-pp_test.dir/test/readerTests.cpp.o  -o csaransh-pp_test  libcsaransh-pp_lib.a --coverage 
